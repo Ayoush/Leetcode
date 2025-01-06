@@ -1,7 +1,7 @@
 # LeetCode Solutions  
 🌟 *Organized by Topics for Easy Navigation!* 🌟  
 
-Welcome to my **LeetCode Solutions Repository**! This repository contains solutions to various LeetCode problems categorized by **Data Structures**, **Algorithms**, and **Shell** topics. Each section is further divided into subtopics for better organization.  
+Welcome to my **LeetCode Solutions Repository**! This repository contains solutions to various LeetCode problems categorized by **Data Structures**, **Algorithms**, **Database** and **Shell** topics. Each section is further divided into subtopics for better organization.  
 
 > **Notes:**    
 > - Solutions are available in multiple languages where applicable.  
@@ -13,7 +13,11 @@ Welcome to my **LeetCode Solutions Repository**! This repository contains soluti
 ### 🔢 Basic Math  
 | #   | Title                                                                                          | Solution                                                                                                    | Difficulty |
 |-----|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|------------|
-| 1945| [Sum of Digits of String After Convert](https://leetcode.com/problems/sum-of-digits-of-string-after-convert/) | [C++](./data-structures/basic-math/sumOfDigitsOfStringAfterConvert.cpp)                                   | Easy       |
+| 1| [Count Digits](https://www.geeksforgeeks.org/problems/count-digits5716/1) | [Python](./Algo/Basic%20Maths/count_digits.py)                                   | Easy       |
+| 7| [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | [Elixir](./Algo/Basic%20Maths/reverse_number.exs)                                   | Easy       |
+| 9| [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) | [Elixir](./Algo/Basic%20Maths/is_palindrome.exs)                                   | Easy       |
+| 9| [Armstrong Numbers](https://www.geeksforgeeks.org/problems/armstrong-numbers2727/1/) | [Python](./Algo/Basic%20Maths/armstrong_number.py)                                   | Easy       |
+
 
 ### 🛠️ Arrays  
 | #   | Title                                                                                          | Solution                                                                                                    | Difficulty |
